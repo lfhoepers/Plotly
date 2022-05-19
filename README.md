@@ -28,7 +28,10 @@
 
 **Delivery 4**
 
-Visit the website [here](https://lfhoepers.github.io/Plotly/)
+Visit the website
+
+[https://lfhoepers.github.io/Plotly/](https://lfhoepers.github.io/Plotly/)
+
 
 
 Some changes from the list have been added 
