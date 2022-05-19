@@ -28,7 +28,13 @@
 
 **Delivery 4**
 
+Visit the website [here](https://lfhoepers.github.io/Plotly/)
 
+
+Some changes from the list have been added 
+
+- new image, responsive, font, etc)
+- Page starts on 940 and all three charts working as ID selected.
 
 
 
